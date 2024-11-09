@@ -1,0 +1,16 @@
+D:\Program Files\Visual Studio\Sales_Inv\Sales_Inv\obj\Debug\net8.0-windows\Sales_Inv.UserControl1.resources
+D:\Program Files\Visual Studio\Sales_Inv\Sales_Inv\obj\Debug\net8.0-windows\Sales_Inv.csproj.GenerateResource.cache
+D:\Program Files\Visual Studio\Sales_Inv\Sales_Inv\obj\Debug\net8.0-windows\Sales_Inv.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\Visual Studio\Sales_Inv\Sales_Inv\obj\Debug\net8.0-windows\Sales_Inv.AssemblyInfoInputs.cache
+D:\Program Files\Visual Studio\Sales_Inv\Sales_Inv\obj\Debug\net8.0-windows\Sales_Inv.AssemblyInfo.cs
+D:\Program Files\Visual Studio\Sales_Inv\Sales_Inv\obj\Debug\net8.0-windows\Sales_Inv.csproj.CoreCompileInputs.cache
+D:\Program Files\Visual Studio\Sales_Inv\Sales_Inv\bin\Debug\net8.0-windows\Sales_Inv.exe
+D:\Program Files\Visual Studio\Sales_Inv\Sales_Inv\bin\Debug\net8.0-windows\Sales_Inv.deps.json
+D:\Program Files\Visual Studio\Sales_Inv\Sales_Inv\bin\Debug\net8.0-windows\Sales_Inv.runtimeconfig.json
+D:\Program Files\Visual Studio\Sales_Inv\Sales_Inv\bin\Debug\net8.0-windows\Sales_Inv.dll
+D:\Program Files\Visual Studio\Sales_Inv\Sales_Inv\bin\Debug\net8.0-windows\Sales_Inv.pdb
+D:\Program Files\Visual Studio\Sales_Inv\Sales_Inv\obj\Debug\net8.0-windows\Sales_Inv.dll
+D:\Program Files\Visual Studio\Sales_Inv\Sales_Inv\obj\Debug\net8.0-windows\refint\Sales_Inv.dll
+D:\Program Files\Visual Studio\Sales_Inv\Sales_Inv\obj\Debug\net8.0-windows\Sales_Inv.pdb
+D:\Program Files\Visual Studio\Sales_Inv\Sales_Inv\obj\Debug\net8.0-windows\Sales_Inv.genruntimeconfig.cache
+D:\Program Files\Visual Studio\Sales_Inv\Sales_Inv\obj\Debug\net8.0-windows\ref\Sales_Inv.dll
